@@ -14,6 +14,10 @@ In this file, I...
 - Used the `.extend()` function to add the lists to the end of each other
 - Used a for-loop to generate a list with user-provided input
 
+### Issue Noted
+
+I noticed that the `.extend()` function is not working and am currently debugging this.
+
 ## Popping, Inserting, and Removing (from) Lists
 
 In this file, I...
