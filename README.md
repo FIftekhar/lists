@@ -26,3 +26,12 @@ In this file, I...
 - Used the `.insert()` function to insert a user-provided item into the list at an indicated index
 - Let a user remove an item from a list with the `.remove()` function
 - Demonstrated the use of the `.clear()` function
+
+## Searching, Sorting, and Reversing Lists
+
+In this file, I...
+- Created two lists
+- Searched them for list items by index
+- Counted the number of times an item appears in a list
+- Sorted the list from least to greatest and A -> Z
+- Reversed both lists
